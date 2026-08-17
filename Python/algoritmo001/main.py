@@ -1,0 +1,7 @@
+print("1. Pegar frigideira, ovo, óleo e sal.")
+print("2. Colocar óleo na frigideira")
+print("3. Acender o fogo.")
+print("4. Colocar a frigideira no fogo.")
+print("5. Esperar o óleo esquentar.")
+print("6. Colocar o ovo.")
+print("7. Retirar quando pronto.")
