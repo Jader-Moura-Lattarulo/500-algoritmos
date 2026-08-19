@@ -6,7 +6,7 @@ while (true)
     int maiorAlgoritmo = AlgoritmoManager.ObterMaiorAlgoritmo();
 
     Console.Write(
-        $"Qual algoritmo você deseja executar? (000 até {maiorAlgoritmo:D3}): "
+        $"Qual algoritmo você deseja executar? (000 até {maiorAlgoritmo:D3}) ou digite \"sair\" para sair: "
     );
 
     string? entrada = Console.ReadLine();
